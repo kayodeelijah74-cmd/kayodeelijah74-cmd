@@ -1,6 +1,6 @@
 # Hello, I'm Kayode Elijah 👋
 
-Welcome to my GitHub profile! I'm an aspiring **Information Systems Intern**, **UI/UX Designer**, and **Data Analyst** passionate about solving business problems through elegant design and data-driven insights.
+Welcome to my GitHub profile! I'm an aspiring **Information Systems Intern**, **Graphic Designer**, **UI/UX Designer**, and **Data Analyst** passionate about solving business problems through elegant design and data-driven insights.
 
 ## 🚀 About Me
 
