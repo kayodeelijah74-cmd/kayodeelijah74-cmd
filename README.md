@@ -1,4 +1,4 @@
-# Hello, I'm Kayode Elijah 👋
+# Hello, I'm Elijah Adeleke 👋
 
 Welcome to my GitHub profile! I'm an aspiring **Information Systems Intern**, **Graphic Designer**, **UI/UX Designer**, and **Data Analyst** passionate about solving business problems through elegant design and data-driven insights.
 
