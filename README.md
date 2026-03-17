@@ -113,8 +113,7 @@ I'm always interested in discussing data, design, technology, and collaboration 
 - 💼 **[LinkedIn](https://www.linkedin.com/in/elijahadeleke)** - Professional profile & updates
 - 🎨 **[Behance](https://www.behance.net/elijahadeleke)** - Design portfolio & case studies
 - 📧 **Email**: [kayodeelijah74@gmail.com](mailto:kayodeelijah74@gmail.com) - Reach out anytime!
-- 🐦 **[Twitter](https://twitter.com/yourhandle)** *(add if available)*
-- 🌐 **[Portfolio Website](https://yourportfolio.com)** *(add if available)*
+- 🐦 **[Twitter](https://x.com/adeleke65199)** - Let's connect!
 
 ## 🎓 Education & Development
 
